@@ -1,0 +1,9 @@
+:set number
+:set ic
+:set smartcase
+:syntax on
+:set expandtab
+:set tabstop=4
+:set backspace=2
+:set nowrap
+:set autoindent
